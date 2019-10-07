@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Dog toys",
+      "sales": 603.243,
+      "salescompared": 2.51,
+      "salesarrowup": true,
+      "adspend": 13.182,
+      "adcompared": 1.46,
+      "adarrowup": true
+    },
+    {
+      "id": 2,
+      "category": "Dog treats",
+      "sales": 542.372,
+      "salescompared": 1.37,
+      "salesarrowup": true,
+      "adspend": 9.463,
+      "adcompared": 0.96,
+      "adarrowup": true
+    },
+    {
+      "id": 3,
+      "category": "Dog bones",
+      "sales": 510.118,
+      "salescompared": 1.76,
+      "salesarrowup": false,
+      "adspend": 10.846,
+      "adcompared": 2.74,
+      "adarrowup": false
+    },
+    {
+      "id": 4,
+      "category": "Dog poop care",
+      "sales": 492.118,
+      "salescompared": 0.33,
+      "salesarrowup": false,
+      "adspend": 8.690,
+      "adcompared": 1.20,
+      "adarrowup": true
+    },
+    {
+      "id": 5,
+      "category": "Dog supplements",
+      "sales": 303.664,
+      "salescompared": 0.49,
+      "salesarrowup": true,
+      "adspend": 11.239,
+      "adcompared": 0.76,
+      "adarrowup": false
+    }
+  ]
+}
